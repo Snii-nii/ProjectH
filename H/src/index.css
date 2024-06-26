@@ -5,32 +5,39 @@ body {
   background-color: #292929;
   margin: 0;
   padding: 0;
-  color: rgb(235, 235, 235);
+  color: #f0d0c5;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
+  overflow-x: hidden;  /* Ensure no horizontal scrolling */
+  overflow-y: auto;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
 .container {
-  width: 80%; /* Adjust the width as needed */
-  max-width: 1200px;
-  min-width: 600px; /* Ensure minimum width */
+  width: 100%; /* Take full width of the parent */
+  max-width: 1000px;
+  min-width: 400px; /* Ensure minimum width */
   height: 80%;
   max-height: 1200px;
   min-height: 850px; /* Ensure minimum height */
-
   background: url('./assets/bluewood.jpg') no-repeat center center;
   background-size: cover;
   padding: 20px;
+  margin: 0 auto; /* Center align horizontally */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  overflow-x: hidden; /* Ensure no horizontal scrolling */
 }
 
 .overlay {
   background: rgba(0, 0, 0, 0.5); /* Add a dark overlay to make text more readable */
-  padding: 20px;
+  padding: 40px;
   border-radius: 10px;
-  color: rgb(235, 235, 235); /* Ensure text is visible */
+  color: #f0d0c5; /* Ensure text is visible */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  overflow-x: hidden; /* Ensure no horizontal scrolling */
 }
