@@ -7,19 +7,22 @@ function App() {
     <>
     <div className="container">
       <div className="overlay">
-        <h1>Häät</h1>
-          <p>Jotainjotain</p>
+        <h1>Sonjan ja Jaakon Häät</h1>
+        
 
-        <h1>Vihkiminen ja juhlan kulku</h1>
+        <h2>Vihkiminen ja juhlan kulku</h2>
 
           <p>
-            Vihkitilaisuus alkaa Viikin kirkossa 3.8.2024, klo 11.             (Agronominkatu 5, 00790 Helsinki)
-            Vihkitilaisuuden jälkeen jatkamme juhlia Tammisalon VPK:n juhlatiloissa, n klo 12.00 (Tammisalontie 7, 00830 Helsinki) klo 21.30 saakka.
-
-            Ohjelma?
+            Vihkitilaisuus alkaa Viikin kirkossa 3.8.2024, klo 11.00
+            <br />
+            (Agronominkatu 5, 00790 Helsinki)
+            <br />
+            Vihkitilaisuuden jälkeen jatkamme juhlia Tammisalon VPK:n juhlatiloissa, n klo 12.00
+            <br />
+            (Tammisalontie 7, 00830 Helsinki) klo 21.30 saakka.
           </p>
 
-        <h1>Liikkuminen & Parkkeeraus</h1>
+        <h2>Liikkuminen & Parkkeeraus</h2>
 
           <p>
             Kirkon parkkipaikalta kadun varresta kirkon itäpäädystä löytyy 13 parkkipaikkaa, merkattu ”Kirkkovieraille”. Agronominkadun eteläpäässä, noin 200 metriä kirkolta, sijaitsee 30 neljän tunnin autopaikkaa. Myös Tilanhoitajankaaren varrella on yksittäisiä neljän tunnin autopaikkoja.
