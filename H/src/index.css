@@ -14,7 +14,7 @@ body {
   overflow-x: hidden;
   overflow-y: hidden;
   box-sizing: border-box;
-  font-size: 0.7rem;
+  font-size: 1rem;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -23,16 +23,15 @@ body {
 .container {
   width: 100%;
   max-width: 1000px;
-  min-width: 400px;
+  min-width: 300px;
   height: 100%;
   max-height: calc(100vh - 40px);
-  min-height: 850px;
+  min-height: calc(100vh - 1px);
   background: url('./assets/bluewood.jpg') no-repeat center center;
   background-size: cover;
   padding: 20px;
   margin: 0 auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
   box-sizing: border-box;
   overflow-x: hidden;
 }

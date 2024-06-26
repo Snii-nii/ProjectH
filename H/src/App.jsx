@@ -1,4 +1,3 @@
-import './App.css'
 import "./assets/bluewood.jpg"
 
 function App() {
@@ -38,12 +37,76 @@ function App() {
             <a href="https://www.hsl.fi/liput-ja-hinnat/hsl-sovellus">sovelluksen </a>
             julkisilla liikkumiseen. Emme kuitenkaan pakota ketään turvautumaan julkiseen liikenteeseen, vaan ensisijaisesti toivomme saavamme vieraille tarpeeksi kimppakyytejä tai käyttävän taksipalveluita.
           </p>
-          <p><a href="https://www.taksihelsinki.fi/">Taxi-Helsinki</a> p. <span id="phone">&#48;&#49;&#48;&#48; &#48;&#55;&#48;&#48;</span></p>
-          <p><a href="https://www.kovanen.com/helsinkitaksi/"> Kovanen</a> p. <span id="phone">&#48;&#50;&#48;&#48; &#54;&#48;&#54;&#48;</span></p>
-          <p><a href="https://www.lahitaksi.fi/fi"> Lähitaksi</a> p. <span id="phone">&#48;&#49;&#48;&#48; &#55;&#51;&#48;&#48;</span></p>
-          <p><a href="https://meneva.fi/fi/palvelualueet/uusimaa/helsinki"> Menevä</a> p. <span id="phone">&#48;&#56;&#48;&#48; &#48;&#50;&#49;&#50;&#48;</span></p>
+          <p><a href="https://www.taksihelsinki.fi/">Taxi-Helsinki</a> p. <span id="phone">&#48;&#49;&#48;&#48;&nbsp;&#48;&#55;&#48;&#48;</span></p>
+          <p><a href="https://www.kovanen.com/helsinkitaksi/"> Kovanen</a> p. <span id="phone">&#48;&#50;&#48;&#48;&nbsp;&#54;&#48;&#54;&#48;</span></p>
+          <p><a href="https://www.lahitaksi.fi/fi"> Lähitaksi</a> p. <span id="phone">&#48;&#49;&#48;&#48;&nbsp;&#55;&#51;&#48;&#48;</span></p>
+          <p><a href="https://meneva.fi/fi/palvelualueet/uusimaa/helsinki"> Menevä</a> p. <span id="phone">&#48;&#56;&#48;&#48;&nbsp;&#48;&#50;&#49;&#50;&#48;</span></p>
 
+        <h2>Kimppakyydit</h2>
+          <p>
+          Ilmoitathan viimeistään 27.7 morsiamen äidille xxxxxxx
+          jos tarvitsette kyytiä tai teillä on tilaa kyyditä, niin tehdään kimppakyydeistä helppoja.
+          </p>
+          <p>
+          Jos teillä on tilaa kyyditä:
+          Liitäthän mukaan tiedon montako paikkaa ja auton rekisterinumeron.
+          </p>
+          <p>
+          Jos tarvitsette kyytiä:
+          Saat kirkosta lähtiessäsi lapun häätiimiltä, josta selviää kenen kyydillä pääsette.
+          </p>
 
+        <h2>Majoitus</h2>
+          <p>
+          Jos tarvitsette apua majoituksen hoitamisessa, otattehan reippaasti yhteyttä niin katsotaan yhdessä asiaa.
+          </p>
+
+        <h2>Lahjatoiveet</h2>
+          <p>
+          Yhteisiä vuosia meillä on jo tullut, jottemme hukkuisi tavaravuoreen, toivomme mahdollisia muistamisia tilille xxxxx - Sonja Hirvonen. Muita lahjaideoita löytyy: <a href="www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: xxxxx) tai kysymällä häätiimiltä.
+          </p>
+          <p>
+          Tärkeimpänä lahjana kuitenkin pidämme läheistemme seuraa.
+          </p>
+
+        <h2></h2>
+          <p>
+          Jos haluatte järjestää hääpäivänä ohjelmaa, voitte ilmoittaa siitä kaasoille tai morsiamen äidille.
+          <br />
+          Kuvauskielto?
+          <br />
+          Korvatulpista?
+          <br />
+          Ohjelma?
+          </p>
+
+        <h2>Yhteystiedot</h2>
+          <p>
+            Sonja p.
+            Jaakko p.
+          </p>
+          <p>
+            Kaasot
+            <br />
+            Pinja p.
+            Tanja p.
+          </p>
+          <p>
+            Bestmanit
+            <br />
+            Kosma p.
+            Nikolas p.
+          </p>
+          <p>
+            Morsiamen äiti
+            <br />
+            Sanna p.
+          </p>
+          <p>
+            Sulhasen äiti
+            <br />
+            Tiina p.
+          </p>
         </div>
     </div>
     </>
