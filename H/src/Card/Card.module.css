@@ -1,0 +1,9 @@
+.card{
+  border-radius: 10px;
+  padding: 10px;
+}
+.card-image{
+  max-width: 50%;
+  height: auto;
+  border-radius: 10px;
+}

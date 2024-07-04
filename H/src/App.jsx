@@ -1,4 +1,5 @@
 import "./assets/bluewood.jpg"
+import Card from "./Card/Card.jsx"
 
 function App() {
   
@@ -44,7 +45,7 @@ function App() {
 
         <h2>Kimppakyydit</h2>
           <p>
-          Ilmoitathan viimeistään 27.7 morsiamen äidille xxxxxxx
+          Ilmoitathan viimeistään 27.7 morsiamen äidille Sannalle p. &#48;&#52;&#52;&#32;&#57;&#56;&#54;&#55;&#50;&#49;&#48; 
           jos tarvitsette kyytiä tai teillä on tilaa kyyditä, niin tehdään kimppakyydeistä helppoja.
           </p>
           <p>
@@ -63,49 +64,50 @@ function App() {
 
         <h2>Lahjatoiveet</h2>
           <p>
-          Yhteisiä vuosia meillä on jo tullut, jottemme hukkuisi tavaravuoreen, toivomme mahdollisia muistamisia tilille xxxxx - Sonja Hirvonen. Muita lahjaideoita löytyy: <a href="www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: xxxxx) tai kysymällä häätiimiltä.
+          Yhteisiä vuosia meillä on jo tullut, jottemme hukkuisi tavaravuoreen, toivomme mahdollisia muistamisia tilille <Card></Card> - Sonja Hirvonen. Muita lahjaideoita löytyy: <a href="www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: omenapuu) tai kysymällä häätiimiltä.
           </p>
           <p>
           Tärkeimpänä lahjana kuitenkin pidämme läheistemme seuraa.
           </p>
 
-        <h2></h2>
+        <h2>Muuta</h2>
           <p>
           Jos haluatte järjestää hääpäivänä ohjelmaa, voitte ilmoittaa siitä kaasoille tai morsiamen äidille.
           <br />
-          Kuvauskielto?
+          Kuten häissä on tapana, kameroita on ja kuvia otetaan. Jos kuitenkin haluat että teitä ei kuvattaisi, ilmoita asiasta!
           <br />
-          Korvatulpista?
-          <br />
-          Ohjelma?
+          Illasta saattaa olla ohjelmassa jotain kovaäänistä joka voi vaatia korvatulppia, jos koet sellaiset mukavaksi, nappaa mukaan.
           </p>
 
         <h2>Yhteystiedot</h2>
           <p>
-            Sonja p.
-            Jaakko p.
+            Sonja p. &#48;&#52;&#52;&#32;&#57;&#55;&#50;&#57;&#54;&#54;&#54;
+            <br />
+            Jaakko p. &#48;&#53;&#48;&#32;&#52;&#51;&#51;&#52;&#51;&#53;&#52;
           </p>
           <p>
             Kaasot
             <br />
-            Pinja p.
-            Tanja p.
+            Pinja p. &#48;&#52;&#52;&#32;&#51;&#48;&#48;&#48;&#48;&#55;&#54;
+            <br />
+            Tanja p. &#48;&#52;&#48;&#32;&#57;&#49;&#50;&#57;&#48;&#57;&#49;
           </p>
           <p>
             Bestmanit
             <br />
-            Kosma p.
-            Nikolas p.
+            Kosma p. &#48;&#52;&#52;&#32;&#50;&#51;&#54;&#56;&#52;&#57;&#49;
+            <br />
+            Nikolas p. &#48;&#52;&#52;&#32;&#50;&#49;&#49;&#53;&#49;&#49;&#57;
           </p>
           <p>
             Morsiamen äiti
             <br />
-            Sanna p.
+            Sanna p. &#48;&#52;&#52;&#32;&#57;&#56;&#54;&#55;&#50;&#49;&#48;
           </p>
           <p>
             Sulhasen äiti
             <br />
-            Tiina p.
+            Tiina p. &#48;&#53;&#48;&#32;&#53;&#57;&#50;&#54;&#56;&#54;&#52;
           </p>
         </div>
     </div>
