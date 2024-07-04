@@ -10,7 +10,8 @@ function App() {
       <div className="overlay">
         <h1>Sonjan ja Jaakon Häät</h1>
         
-        <Divider></Divider>
+        <Divider/>
+
         <h2>Vihkiminen ja juhlan kulku</h2>
 
           <p>
@@ -18,13 +19,14 @@ function App() {
             <br />
             (Agronominkatu 5, 00790 Helsinki)
             <br />
-            Vihkitilaisuuden jälkeen jatkamme juhlia Tammisalon VPK:n juhlatiloissa, n klo 12.00
+            Vihkitilaisuuden jälkeen jatkamme juhlia Tammisalon VPK:n juhlatiloissa, liukuvasti klo 12.00 alkaen ja klo 12.30 kilistellään viimeiset alkumaljat
             <br />
             (Tammisalontie 7, 00830 Helsinki) klo 21.30 saakka.
           </p>
+      <br />
 
         <h2>Liikkuminen & Parkkeeraus</h2>
-
+      <br />
           <p>
             Kirkon parkkipaikalta kadun varresta kirkon itäpäädystä löytyy 13 parkkipaikkaa, merkattu ”Kirkkovieraille”. Agronominkadun eteläpäässä, noin 200 metriä kirkolta, sijaitsee 30 neljän tunnin autopaikkaa. Myös Tilanhoitajankaaren varrella on yksittäisiä neljän tunnin autopaikkoja.
           </p>
@@ -43,7 +45,7 @@ function App() {
           <p><a href="https://www.kovanen.com/helsinkitaksi/"> Kovanen</a> p. <span id="phone">&#48;&#50;&#48;&#48;&nbsp;&#54;&#48;&#54;&#48;</span></p>
           <p><a href="https://www.lahitaksi.fi/fi"> Lähitaksi</a> p. <span id="phone">&#48;&#49;&#48;&#48;&nbsp;&#55;&#51;&#48;&#48;</span></p>
           <p><a href="https://meneva.fi/fi/palvelualueet/uusimaa/helsinki"> Menevä</a> p. <span id="phone">&#48;&#56;&#48;&#48;&nbsp;&#48;&#50;&#49;&#50;&#48;</span></p>
-
+      <br />
         <h2>Kimppakyydit</h2>
           <p>
           Ilmoitathan viimeistään 27.7 morsiamen äidille Sannalle p. &#48;&#52;&#52;&#32;&#57;&#56;&#54;&#55;&#50;&#49;&#48; 
@@ -57,26 +59,29 @@ function App() {
           Jos tarvitsette kyytiä:
           Saat kirkosta lähtiessäsi lapun häätiimiltä, josta selviää kenen kyydillä pääsette.
           </p>
-
+      <br />
         <h2>Majoitus</h2>
           <p>
           Jos tarvitsette apua majoituksen hoitamisessa, otattehan reippaasti yhteyttä niin katsotaan yhdessä asiaa.
           </p>
-
+      <br />
         <h2>Lahjatoiveet</h2>
           <p>
-          Yhteisiä vuosia meillä on jo tullut, jottemme hukkuisi tavaravuoreen, toivomme mahdollisia muistamisia tilille <Card></Card> - Sonja Hirvonen. Muita lahjaideoita löytyy: <a href="www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: omenapuu) tai kysymällä häätiimiltä.
+          Yhteisiä vuosia meillä on jo tullut, jottemme hukkuisi tavaravuoreen, toivomme mahdollisia muistamisia tilille: Sonja Hirvonen
+          </p>
+          <Card/>
+          <p> Muita lahjaideoita löytyy: <a href="www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: omenapuu) tai kysymällä häätiimiltä.
           </p>
           <p>
           Tärkeimpänä lahjana kuitenkin pidämme läheistemme seuraa.
           </p>
-
+      <br />
         <h2>Muuta</h2>
           <p>
           Jos haluatte järjestää hääpäivänä ohjelmaa, voitte ilmoittaa siitä kaasoille tai morsiamen äidille.
-          <br />
+      <br /> <br />
           Kuten häissä on tapana, kameroita on ja kuvia otetaan. Jos kuitenkin haluat että teitä ei kuvattaisi, ilmoita asiasta!
-          <br />
+      <br /> <br />
           Illasta saattaa olla ohjelmassa jotain kovaäänistä joka voi vaatia korvatulppia, jos koet sellaiset mukavaksi, nappaa mukaan.
           </p>
 
