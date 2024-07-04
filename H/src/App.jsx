@@ -1,5 +1,6 @@
 import "./assets/bluewood.jpg"
 import Card from "./Card/Card.jsx"
+import Divider from "./Divider.jsx"
 
 function App() {
   
@@ -9,7 +10,7 @@ function App() {
       <div className="overlay">
         <h1>Sonjan ja Jaakon Häät</h1>
         
-
+        <Divider></Divider>
         <h2>Vihkiminen ja juhlan kulku</h2>
 
           <p>
