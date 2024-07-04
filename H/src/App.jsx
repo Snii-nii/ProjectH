@@ -26,7 +26,7 @@ function App() {
       <br />
 
         <h2>Liikkuminen & Parkkeeraus</h2>
-      <br />
+  
           <p>
             Kirkon parkkipaikalta kadun varresta kirkon itäpäädystä löytyy 13 parkkipaikkaa, merkattu ”Kirkkovieraille”. Agronominkadun eteläpäässä, noin 200 metriä kirkolta, sijaitsee 30 neljän tunnin autopaikkaa. Myös Tilanhoitajankaaren varrella on yksittäisiä neljän tunnin autopaikkoja.
           </p>
@@ -70,7 +70,7 @@ function App() {
           Yhteisiä vuosia meillä on jo tullut, jottemme hukkuisi tavaravuoreen, toivomme mahdollisia muistamisia tilille: Sonja Hirvonen
           </p>
           <Card/>
-          <p> Muita lahjaideoita löytyy: <a href="www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: omenapuu) tai kysymällä häätiimiltä.
+          <p> Muita lahjaideoita löytyy: <a href="https://www.lahjalista.net/sonjajaakkoW">Lahjalista</a> (Salasana: omenapuu) tai kysymällä häätiimiltä.
           </p>
           <p>
           Tärkeimpänä lahjana kuitenkin pidämme läheistemme seuraa.
